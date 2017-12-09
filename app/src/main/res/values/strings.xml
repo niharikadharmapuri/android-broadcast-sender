@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">xyz</string>
+    <string-array name="Titles">
+        <item>Lincoln Park Zoo</item>
+        <item>Field Museum</item>
+        <item>Millennium Park</item>
+        <item>Navy Pier</item>
+        <item>Willis Towers</item>
+        <item>Wrigley Stadium</item>
+
+    </string-array>
+    <string-array name="Urls">
+        <item>http://www.lpzoo.org/</item>
+        <item>https://www.fieldmuseum.org//</item>
+        <item>https://www.cityofchicago.org/city/en/depts/dca/supp_info/millennium_park.html</item>
+        <item>https://navypier.org/</item>
+        <item>http://www.willistower.com/</item>
+        <item>http://chicago.cubs.mlb.com/chc/ballpark/</item>
+
+
+    </string-array>
+    <string name="application1">Exit App1</string>
+    <string name="application2">Application2</string>
+</resources>
